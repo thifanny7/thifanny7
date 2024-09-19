@@ -2,7 +2,7 @@
 meu nome e thifanny
 
 
-- estou estudando na alura
+-estou estudando no ![Alura](https://www.alura.com.br/)
 - estou desenbolvendo na linguagem javaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
